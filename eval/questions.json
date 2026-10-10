@@ -1,0 +1,6 @@
+[
+  {"q": "RAG的核心流程分为哪两个阶段？", "expected_source": "test.txt"},
+  {"q": "离线阶段需要做什么？", "expected_source": "test.txt"},
+  {"q": "在线阶段把什么转成向量？", "expected_source": "test.txt"},
+  {"q": "Embedding 模型的作用是什么？", "expected_source": "test.txt"}
+]
