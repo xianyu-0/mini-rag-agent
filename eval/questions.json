@@ -1,6 +1,18 @@
 [
-  {"q": "RAG的核心流程分为哪两个阶段？", "expected_source": "test.txt"},
-  {"q": "离线阶段需要做什么？", "expected_source": "test.txt"},
-  {"q": "在线阶段把什么转成向量？", "expected_source": "test.txt"},
-  {"q": "Embedding 模型的作用是什么？", "expected_source": "test.txt"}
+  {"q": "C++ 中指针和引用的区别是什么？", "expected_source": "C++基础入门.pdf"},
+  {"q": "C++ 的三大特性是什么？", "expected_source": "C++核心编程.pdf"},
+  {"q": "什么是 C++ 的构造函数？", "expected_source": "C++核心编程.pdf"},
+  {"q": "C++ 中的虚函数有什么作用？", "expected_source": "C++核心编程.pdf"},
+  {"q": "C++ 模板编程怎么用？", "expected_source": "C++核心编程.pdf"},
+  {"q": "C++ 智能指针有哪些类型？", "expected_source": "C++核心编程.pdf"},
+  {"q": "C++ 内存泄漏怎么排查？", "expected_source": "C++核心编程.pdf"},
+  {"q": "C++ 运算符重载的规则是什么？", "expected_source": "C++题库（word版）.docx"},
+  {"q": "C++ 继承和多态的区别？", "expected_source": "C++核心编程.pdf"},
+  {"q": "C++ 中数组和链表的区别？", "expected_source": "C++核心编程.pdf"},
+  {"q": "C++ 中类与对象的关系是什么？", "expected_source": ["C++题库（word版）.docx", "C++核心编程.pdf"]},
+  {"q": "C++ 中静态成员变量怎么用？", "expected_source": ["C++题库（word版）.docx", "C++核心编程.pdf"]},
+  {"q": "C++ 文件读写怎么做？", "expected_source": ["C++题库（word版）.docx", "C++核心编程.pdf"]},
+  {"q": "调研报告的结论是什么？", "expected_source": "调研报告(1).pptx"},
+  {"q": "调研报告里提到了哪些数据？", "expected_source": "调研报告(1).pptx"},
+  {"q": "C++ 中引用做函数参数的好处是什么？", "expected_source": "C++核心编程.pdf"}
 ]
